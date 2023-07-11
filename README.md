@@ -1,5 +1,5 @@
 # Quoridor 
-Made with GE211 game engine for CS211 final project. 
+Made with GE211 game engine for CS211 final project. A Rhys Halaby-Ellen Tomlins collaboration.
 
 ## The Aim of the Game
 Quoridor is a two player game on a 9x9 player board. The aim of the game is to make it to the other side of the board. On each turn, a player may either place a wall or click on their player piece to move to an available spot. As you place walls, you can complicate the path of the other player while making a path for yourself. All this you can play while enjoying relaxing, lo-fi hip-hop music and spending time with friends. 
